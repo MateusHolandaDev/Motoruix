@@ -144,10 +144,10 @@ li a {
 #container-textoIntroducao a {
   display: inline-block;
   margin-top: 33px;
-  background-color: var(--vermelho-ponto);
+  background-color: #c52c1c;
   border: none;
   padding: 16px 32px;
-  color: var(--branco-texto);
+  color: #f0f0f0;
   text-decoration: none;
   font-weight: 700;
   font-size: 18px;
@@ -719,7 +719,5 @@ li a {
   .container-parceiros h1{
     font-size: 14px;
     line-height: 27px;
-  }
-  .container{
   }
 }
